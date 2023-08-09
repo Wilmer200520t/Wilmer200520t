@@ -2,6 +2,7 @@
 <h3 align="center">Soy estudiante de 8vo ciclo de la carrera ingeniería de Software,busco aplicar mis conocimientos aprendidos en la universidad y de forma autodidacta, que me permita crecer laboralmente e intelectualmente.</h3>
 
 - 🔭 Proyecto Universitario [La Cuadra El Salvador](https://github.com/Wilmer200520t/LaCuadra_El_Salvador)
+- 🔭 Proyecto Universitario [Peruvian Food](https://peruvianfoodutp.000webhostapp.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
