@@ -1,8 +1,6 @@
 <h1 align="center">Hola soy un Estudiante de la carrera de Ingeniería de Software</h1>
-<h3 align="center">Soy estudiante de 8vo ciclo de la carrera ingeniería de Software,busco aplicar mis conocimientos aprendidos en la universidad y de forma autodidacta, que me permita crecer laboralmente e intelectualmente.</h3>
+<h3 align="center">¡Hola! Soy estudiante de Ingeniería de Software en el décimo ciclo. Mi pasión por la tecnología y el desarrollo de software me impulsa a buscar constantemente oportunidades para aplicar mis conocimientos, tanto los adquiridos en la universidad como los obtenidos de manera autodidacta.</h3>
 
-- 🔭 Proyecto Universitario [La Cuadra El Salvador](https://github.com/Wilmer200520t/LaCuadra_El_Salvador)
-- 🔭 Proyecto Universitario [Peruvian Food](https://peruvianfoodutp.000webhostapp.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
