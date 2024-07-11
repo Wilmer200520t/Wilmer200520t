@@ -179,6 +179,13 @@
           width="40"
           height="40" />
       </a>
+      <a href="#" target="_blank" rel="noreferrer">
+        <img
+          src="https://img.icons8.com/color/48/api.png"
+          alt="API REST"
+          width="40"
+          height="40" />
+      </a>
       <br />
       <h4 align="left">Others</h4>
       <!-- Operating Systems -->
