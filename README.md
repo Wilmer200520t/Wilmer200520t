@@ -1,9 +1,8 @@
-<h1 align="center">Hola soy un Estudiante de la carrera de Ingeniería de Software</h1>
+<h1 align="center">Software Engineering </h1>
 <p>
-      ¡Hola! Soy estudiante de Ingeniería de Software en el décimo ciclo. Mi
-      pasión por la tecnología y el desarrollo de software me impulsa a buscar
-      constantemente oportunidades para aplicar mis conocimientos, tanto los
-      adquiridos en la universidad como los obtenidos de manera autodidacta.
+     Hi! I am passionate about technology and software development, specializing in back-end development and DevOps.
+     I am driven by a constant search for opportunities to apply my knowledge, both acquired at university and 
+     through self-learning. I am always eager to learn and face new challenges in the field of software developmen
     </p>
     <h3 align="left">Connect with me:</h3>
     <p align="left">
@@ -90,16 +89,6 @@
       <br />
       <h4 align="left">Databases</h4>
       <!-- Databases -->
-      <a
-        href="https://www.ibm.com/products/informix"
-        target="_blank"
-        rel="noreferrer">
-        <img
-          src="https://svgbrand.com/uploads/images/webp/202311/SVG_Brand_ibm_informix.webp"
-          alt="IBM Informix"
-          width="40"
-          height="40" />
-      </a>
       <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
