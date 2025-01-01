@@ -2,7 +2,7 @@
 <p>
      Hi! I am passionate about technology and software development, specializing in back-end development and DevOps.
      I am driven by a constant search for opportunities to apply my knowledge, both acquired at university and 
-     through self-learning. I am always eager to learn and face new challenges in the field of software developmen
+     through self-learning. I am always eager to learn and face new challenges in the field of software development.
     </p>
     <h3 align="left">Connect with me:</h3>
     <p align="left">
@@ -64,15 +64,14 @@
       </a>
       <br />
       <h4 align="left">Frameworks</h4>
-      <!-- Frontend Frameworks -->
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <!-- Backend Frameworks -->
+      <a href="https://docs.spring.io/" target="_blank" rel="noreferrer">
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-          alt="React"
+          src="https://img.icons8.com/color/48/spring-logo.png"
+          alt="NestJS"
           width="40"
           height="40" />
       </a>
-      <!-- Backend Frameworks -->
       <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
         <img
           src="https://nestjs.com/img/logo-small.svg"
@@ -91,6 +90,14 @@
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
           alt="Node.js"
+          width="40"
+          height="40" />
+      </a>
+      <!-- Frontend Frameworks -->
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+          alt="React"
           width="40"
           height="40" />
       </a>
@@ -180,6 +187,23 @@
         <img
           src="https://img.icons8.com/color/48/api.png"
           alt="API REST"
+          width="40"
+          height="40" />
+      </a>
+      <a href="#" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.svgrepo.com/show/354553/websocket.svg"
+          alt="Web sockets"
+          width="40"
+          height="40" />
+      </a>
+      <br />
+      <h4 align="left">Security</h4>
+      <!-- Security Apps -->
+      <a href="#" target="_blank" rel="noreferrer">
+        <img
+          src="https://img.icons8.com/color/48/java-web-token.png"
+          alt=JWT"
           width="40"
           height="40" />
       </a>
